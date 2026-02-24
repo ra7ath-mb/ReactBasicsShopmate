@@ -1,0 +1,34 @@
+{
+    "products": [
+        {
+            "id": 100001,
+            "name": "Basic to Advanced In React", 
+            "price": 11, 
+            "in_stock": true
+        },
+        {
+            "id": 100002,
+            "name": "Basic to Advanced In Angular", 
+            "price": 1119, 
+            "in_stock": true
+        },
+        {
+            "id": 100003,
+            "name": "Basic to Advanced In Vue", 
+            "price": 39, 
+            "in_stock": true
+        },
+        {
+            "id": 100004,
+            "name": "Basic to Advanced In Node", 
+            "price": 89, 
+            "in_stock": true
+        },
+        {
+            "id": 100005,
+            "name": "Basic to Advanced In Express", 
+            "price": 99, 
+            "in_stock": true
+        }
+        ]
+}
