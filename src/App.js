@@ -1,8 +1,10 @@
+import ProductList from "./components/ProductList";
 
 const App = () => {
   return (
     <div className="App">
-    App
+    <h1>ShopMate</h1>
+    <ProductList />
     </div>
   )
 };
